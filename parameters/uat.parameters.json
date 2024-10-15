@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "lbenamour-dbsrv-dev"
+            "value": "lbenamour-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "lbenamour-db-dev"
+            "value": "lbenamour-db-uat"
         },
         "appServicePlanName": {
-            "value": "lbenamour-asp-dev"
+            "value": "lbenamour-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "lbenamour-be-dev"
+            "value": "lbenamour-be-uat"
         },
         "appServiceAppName": {
-            "value": "lbenamour-fe-dev"
+            "value": "lbenamour-fe-uat"
         },
         "location": {
             "value": "North Europe"
